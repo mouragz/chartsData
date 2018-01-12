@@ -41,5 +41,6 @@
           "borderWidth": 1
           
       }
-    ]
+    ],
+    "images":["arrowdown.png","arrowup.png","logo.png","remove.png"]
   }
