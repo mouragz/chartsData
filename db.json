@@ -1,7 +1,7 @@
 {
   "charts": [
     { 
-      "type": "line",
+      "type": "Line",
       "labels": ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
       "datasets": [
         {
@@ -11,7 +11,7 @@
        ]
     },
     {
-      "type": "doughnut",
+      "type": "Doughnut",
       "labels": ["Green", "Purple", "Orange","Red", "Blue", "Yellow"],
       "datasets": [
           {
@@ -27,7 +27,7 @@
           }
          ]
     },      {
-      "type": "column",
+      "type": "Bar",
       "labels": ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
       "datasets": [
           {
